@@ -1,5 +1,5 @@
 # Google_LookerStudio & GA4_Project
-Interactive Dashboard with GA4 and Looker Studio
+Interactive Dashboard with GA4 and Looker Studio - [Google Merchandise Store Dashboard](https://lookerstudio.google.com/reporting/68e49eb4-9cbf-43ba-8b2c-aa64e88ddefd).  
 
 ---
 
@@ -37,4 +37,5 @@ By integrating **GA4 data** with Looker Studio, this project demonstrates how to
 ### Live Demo  
 Check out the live dashboard here: [Google Merchandise Store Dashboard](https://lookerstudio.google.com/reporting/68e49eb4-9cbf-43ba-8b2c-aa64e88ddefd).  
 
+ Feel free to explore the data visualizations and uncover trends in the Google Merchandise Store dataset!
 ---
